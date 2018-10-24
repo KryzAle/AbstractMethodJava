@@ -15,6 +15,7 @@ public class Main {
         // Se insertarán los componentes con el borde azul
          Cliente cliente = new Cliente( new ComponentesAzules() );
         System.out.println("----------------------------");
+        System.out.println("----------------------------");
         // Ahora se insertarán los componentes con el borde rojo
          cliente = new Cliente( new ComponentesRojos() );
     }
